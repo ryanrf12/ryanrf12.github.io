@@ -55,8 +55,8 @@ footer {
 
 .about {
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .about p {
@@ -65,8 +65,8 @@ footer {
 
 .contact {
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .contact hr{
@@ -81,6 +81,11 @@ footer {
 	margin-left: 10%;
 }
 
+.skills {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
 
 .jumbotron {
 	font-family: 'Arvo', serif;
