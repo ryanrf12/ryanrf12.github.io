@@ -20,22 +20,56 @@ footer {
   margin-bottom: 0;
   text-transform: uppercase;
   color: white;
-
 }
+
 
 #splash {
 	padding-top: 250px;
 	padding-bottom: 250px;
 }
 
-#skills {
-	border:250px;
+#about {
 	background-color: #7f8c8d;
 }
 
-.navbar-brand a:hover {
-	color: red;
+#contact {
+	text-align: center;
+	background-color: #bdc3c7;
 }
+
+.about hr{
+	width: 100px;
+	border-top: 1px solid white;
+	margin-top: 10px auto;
+}
+
+.about {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.about p {
+	font-size: 150%;
+}
+
+.contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.contact hr{
+	width: 100px;
+	border-top: 1px solid white;
+	margin-top: 10px auto;
+}
+
+.contact p {
+	font-size: 150%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
 
 .jumbotron {
 	font-family: 'Arvo', serif;
@@ -44,3 +78,19 @@ footer {
 	color: #ecf0f1;
 	margin-bottom: 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
