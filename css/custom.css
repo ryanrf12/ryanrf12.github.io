@@ -55,7 +55,13 @@ footer {
 	right: 20px;
 }
 
+#mailbutton {
+	color: white;
+}
 
+#mailbutton a:hover {
+	color: red;
+}
 
 
 .about hr{
