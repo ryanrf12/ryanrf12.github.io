@@ -28,13 +28,23 @@ footer {
 	padding-bottom: 250px;
 }
 
+
 #about {
 	background-color: #7f8c8d;
 }
 
 #contact {
-	text-align: center;
 	background-color: #bdc3c7;
+}
+
+#skills {
+	background-color: #16a085;
+}
+
+#self {
+	height: 80%;
+	width: 80%;
+	border-radius: 50%;
 }
 
 .about hr{
@@ -54,6 +64,7 @@ footer {
 }
 
 .contact {
+	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -74,9 +85,9 @@ footer {
 .jumbotron {
 	font-family: 'Arvo', serif;
 	text-align: center;
-	background-color: #2980b9;
 	color: #ecf0f1;
 	margin-bottom: 0;
+	background-image: url("../images/chalk.jpg");
 }
 
 
