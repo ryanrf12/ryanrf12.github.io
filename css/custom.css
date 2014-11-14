@@ -34,17 +34,19 @@ footer {
 }
 
 #contact {
-	background-color: #bdc3c7;
+	background-color: #16a085;
 }
 
 #skills {
-	background-color: #16a085;
+	background-color: #bdc3c7;
 }
 
 #self {
 	height: 80%;
 	width: 80%;
 	border-radius: 50%;
+	-webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
 }
 
 #back-to-top {
@@ -52,6 +54,7 @@ footer {
 	bottom: 20px;
 	right: 20px;
 }
+
 
 .about hr{
 	width: 100px;
