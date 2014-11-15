@@ -63,8 +63,8 @@ footer {
 	color: white;
 }
 
-#mailbutton a:hover {
-	color: red;
+#mailbutton i:hover {
+	color: #2c3e50;
 }
 
 
