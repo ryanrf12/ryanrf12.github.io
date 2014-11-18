@@ -23,22 +23,29 @@ footer {
 }
 
 
+
+
+
 #splash {
 	padding-top: 250px;
 	padding-bottom: 250px;
 }
 
-
 #about {
 	background-color: #7f8c8d;
 }
 
-#contact {
-	background-color: #16a085;
-}
 
 #skills {
 	background-color: #bdc3c7;
+}
+
+#projects {
+	background-color: #ecf0f1;
+}
+
+#contact {
+	background-color: #16a085;
 }
 
 #self {
@@ -46,7 +53,7 @@ footer {
 	width: 80%;
 	border-radius: 50%;
 	-webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
+  	-moz-border-radius: 50%;
 }
 
 #back-to-top {
@@ -54,6 +61,7 @@ footer {
 	bottom: 20px;
 	right: 20px;
 }
+
 
 #back-to-top a {
 	color: #333;
@@ -66,6 +74,12 @@ footer {
 #mailbutton i:hover {
 	color: #2c3e50;
 }
+
+#stack {
+	text-align: justify;
+	padding-left: 250px;
+}
+
 
 
 .about hr{
@@ -102,10 +116,52 @@ footer {
 	margin-left: 10%;
 }
 
+.contact {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.iconbox {
+	background: #fff;
+	border-bottom: 1px solid #d4d4d4;
+	text-align: center;
+	padding: 40px 20px;
+	margin: 0 0 20px;
+}
+
 .skills {
 	text-align: center;
 	padding-top: 100px;
 	padding-bottom: 100px;
+	font-size: 150%;
+}
+
+.skills hr{
+	width: 100px;
+	border-top: 1px solid white;
+	margin-top: 10px auto;
+}
+
+.skills p {
+	font-size: 80%;
+}
+
+
+.projects {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.projects p {
+	font-size: 150%;
+}
+
+.projects hr{
+	width: 100px;
+	border-top: 1px solid #bdc3c7;
+	margin-top: 10px auto;
 }
 
 .jumbotron {
