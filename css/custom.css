@@ -173,8 +173,28 @@ footer {
 	padding-bottom: 250px;
 }
 
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
 
-
+.social-links a {
+width: 36px;
+height: 36px;
+display: block;
+line-height: 35px;
+text-align: center;
+border: 1px solid rgba(255, 255, 255, .1);
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+font-size: 14px;
+color: rgba(255, 255, 255, .2);
+}
 
 
 
