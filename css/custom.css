@@ -129,6 +129,7 @@ footer .fa:hover {
 
 
 .contact hr{
+	border-width: 100px;
 	border-top: 1px solid white;
 	margin-top: 10px auto;
 }
@@ -166,6 +167,7 @@ footer .fa:hover {
 }
 
 .skills hr{
+	border-width: 100px;
 	border-top: 1px solid white;
 	margin-top: 10px auto;
 }
@@ -190,6 +192,7 @@ footer .fa:hover {
 }
 
 .projects hr{
+	border-width: 100px;
 	border-top: 1px solid #bdc3c7;
 	margin-top: 10px auto;
 }
