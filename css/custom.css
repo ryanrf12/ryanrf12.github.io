@@ -61,6 +61,13 @@ footer .fa:hover {
 	background-color: #16a085;
 }
 
+#self {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+  	-moz-border-radius: 50%;
+}
 
 #back-to-top {
 	position: fixed;
