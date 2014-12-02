@@ -23,9 +23,6 @@ footer {
   text-align: center;
 }
 
-html,body {
-    height:100%;
-}
 
 footer .fa {
 	border-radius: 50%;
@@ -99,6 +96,9 @@ footer .fa:hover {
 	padding-bottom: 250px;
 }
 
+
+
+
 .about hr{
 	width: 100px;
 	border-top: 1px solid white;
@@ -114,6 +114,9 @@ footer .fa:hover {
 .about p {
 	font-size: 150%;
 }
+
+
+
 
 
 .contact hr{
